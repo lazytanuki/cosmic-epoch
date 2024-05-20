@@ -4,8 +4,8 @@
     branch = master
 [submodule "cosmic-comp"]
     path = cosmic-comp
-    url = https://github.com/pop-os/cosmic-comp
-    branch = master
+    url = https://github.com/lazytanuki/cosmic-comp
+    branch = kb_repeat_config
 [submodule "cosmic-panel"]
     path = cosmic-panel
     url = https://github.com/pop-os/cosmic-panel
@@ -29,7 +29,7 @@
 [submodule "cosmic-settings"]
     path = cosmic-settings
     url = https://github.com/pop-os/cosmic-settings
-    branch = master
+    branch = kb_typing_assist
 [submodule "cosmic-settings-daemon"]
     path = cosmic-settings-daemon
     url = https://github.com/pop-os/cosmic-settings-daemon
