@@ -4,7 +4,7 @@
     branch = master
 [submodule "cosmic-comp"]
     path = cosmic-comp
-    url = https://github.com/lazytanuki/cosmic-comp
+    url = https://github.com/pop-os/cosmic-comp
     branch = master
 [submodule "cosmic-panel"]
     path = cosmic-panel
